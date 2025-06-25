@@ -1,10 +1,10 @@
-package kr.beeen.lab;
+package kr.beeen.fcfs.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LabApplicationTests {
+class ApiApplicationTests {
 
 	@Test
 	void contextLoads() {
